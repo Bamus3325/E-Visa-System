@@ -1,24 +1,30 @@
-# Airline Ticket Reservation System
-Online airline ticketing saves time and money for the customer as well as the airline company thereby making air travel more customer-centric. 
-This project is an attempt to simulate the basic concepts of an airline reservation system.
+# 🛂 E-Visa System
 
-Our airline ticket reservation system has the following features:- 
+## 📖 Project Description
+The E-Visa System is an online platform that enables users to apply for visas, submit required documents, and track their application status securely. Administrators can manage applications, approve or reject requests, and generate reports. This system streamlines visa processing, reduces paperwork, and enhances transparency and efficiency.
 
-*Customers can:*
-* Create an account
-* Search for available flights for a particular city-pair
-* Book tickets in the class of their choice
-* Cancel booked tickets
-* View booked tickets history 
+## ✨ Features
+- User registration and login  
+- Submit visa applications with required documents  
+- Track application status  
+- Admin dashboard for managing applications and approvals  
+- Notifications for application updates  
+- Responsive and user-friendly design  
 
-*Administrators can:*
-* Add/Modify flight schedules
-* Viewing the booked ticket statistics
+## 📊 Technologies Used
 
-This system also incorporates a frequent flier miles points system for loyal customers which will provide additional benefits to them.
+### Backend
+- PHP  
+- MySQLi  
 
+### Database
+- MySQL  
 
-This project was implemented using HTML & CSS for the front-end and PHP for the back-end. The database was created and updated using MySQL.
+### Frontend
+- HTML  
+- CSS  
+- Bootstrap  
+- JavaScript  
 
-
-# E-Visa-System
+### Server
+- Apache (XAMPP/WAMP)  
